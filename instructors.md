@@ -1,6 +1,6 @@
 # Instructors
 
-* [Joshua](http://github.com/jaw6)
+* [Joshua Wehner](http://github.com/jaw6)
   * Minneapolis, MN
-* [Jordan](http://github.com/jordanmccullough)
+* [Jordan McCullough](http://github.com/jordanmccullough)
   * Boulder, CO
